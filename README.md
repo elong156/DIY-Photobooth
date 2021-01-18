@@ -18,7 +18,7 @@ Materials USed:
 5. Place your LEDs lights in the box and hide the wires outside the box to connect the positive and negative to the output terminals of the module. 
 5. Connect the module to a source and place a voltage meter on the output of the module. Turn the potentiometer to the desire output voltage. 
 6. Connect your LED lights to test your results (adjust if necessary) 
-7. Solder the input battery terminals to the 9V to 5V module. Then connect the output side to the LED lights. 
+7. Connect a switch to the module and everything else together so that you can just turn on the photobooth with a flip of a switch . 
 8. Place it inside the 3D printed enclosure. 
 9. Done! 
 10. Ready to use. 
